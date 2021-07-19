@@ -1,4 +1,16 @@
-# vue-login
+#Vue.js 3 Social Login
+- Kakao
+- Naver
+- Google
+---
+##yaml setting
+`src/config.yaml`
+```angular2html
+googlekey: YOUR_KEY
+kakaokey: YOUR_KEY
+naverkey: YOUR_KEY
+naversecret: YOUR_KEY
+```
 
 ## Project setup
 ```
